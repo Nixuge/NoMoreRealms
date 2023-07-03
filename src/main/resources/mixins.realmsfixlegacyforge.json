@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.realmsfixlegacyforge.mixins",
+  "refmap": "refmap.realmsfixlegacyforge.json",
+  "mixins": [],
+  "client": [
+    "screen.GuiMainMenuMixin"
+  ],
+  "server": []
+}
