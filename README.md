@@ -1,4 +1,4 @@
-# RealmsFix Legacy Forge
+# No More Realms
 A legacy Forge mod that removes the "realms" buttons
 
 ## Original mod (Fabric & Legacy Fabric)

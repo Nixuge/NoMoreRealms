@@ -1,4 +1,4 @@
-package me.nixuge.realmsfixlegacyforge.mixins.screen;
+package me.nixuge.nomorerealms.mixins.screen;
 
 import java.util.List;
 

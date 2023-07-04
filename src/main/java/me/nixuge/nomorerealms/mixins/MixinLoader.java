@@ -1,11 +1,11 @@
-package me.nixuge.realmsfixlegacyforge.mixins;
+package me.nixuge.nomorerealms.mixins;
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import org.spongepowered.asm.launch.MixinBootstrap;
 import org.spongepowered.asm.mixin.MixinEnvironment;
 import org.spongepowered.asm.mixin.Mixins;
 
-import me.nixuge.realmsfixlegacyforge.McMod;
+import me.nixuge.nomorerealms.McMod;
 
 import java.util.Map;
 
